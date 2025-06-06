@@ -4,7 +4,6 @@ class Solution {
         while(n>0){
             count++;
             n=n/10;
-        }return count;
-        
+        }return count;     
     }
 }
