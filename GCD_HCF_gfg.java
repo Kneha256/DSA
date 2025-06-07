@@ -7,8 +7,7 @@ class Solution {
             }
            else {
                b=b%a;
-           }
-           
+           }    
        }
        if(a==0) return b;
        else return a;
