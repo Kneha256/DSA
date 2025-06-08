@@ -9,8 +9,7 @@ class Solution {
            n=n/10;
        }
        if(sum==temp) return true;
-       else return false;
-        
+       else return false;    
     }
     
 }
