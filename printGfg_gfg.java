@@ -4,7 +4,6 @@ class Solution {
         while(N>0){
             System.out.print("GFG"+" ");
             N--;
-        }
-        
+        }   
     }
 }
